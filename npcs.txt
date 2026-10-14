@@ -1,0 +1,7 @@
+"npcs"
+{
+	"base"		"sandbox"
+	"title"		"NPC's Survival !"
+	"maps"		""
+	"menusystem"	"1"
+}
